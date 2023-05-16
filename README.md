@@ -1,1 +1,6 @@
-# Reduce_App_Size
+# Reduce App Size
+
+```
+minifyEnabled true
+shrinkResources true
+```
